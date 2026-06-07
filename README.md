@@ -1,40 +1,52 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm BODAPATI PARTHASARATHI
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hey, I'm BODAPATI PARTHASARATHI
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=BODAPATI-PARTHASARATHI&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Python+Developer;Software+Developer+Fresher;Aspiring+ML+Engineer;Building+Projects+%26+Learning+Everyday;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Python+Developer;Software+Developer+Fresher;Aspiring+ML+Engineer;Building+Projects+with+Python;Learning+Something+New+Everyday" alt="Typing SVG"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-💻 Passionate about building real-world software projects using Python and modern technologies.
+💻 Passionate Python Developer focused on building practical software projects and continuously improving development skills.
 
-📚 Currently improving my skills in Machine Learning, Backend Development, and Open Source.
+🧠 Exploring Machine Learning, Backend Development, and Open Source technologies.
 
-🎯 Focused on writing clean code, solving problems, and continuously learning new technologies.
+📚 Strong interest in problem-solving, clean coding practices, and real-world applications.
 
-🌱 Exploring AI, automation, and full-stack development.
+🎯 Working towards becoming a skilled Software Engineer and ML Engineer.
 
 ---
 
 ## ✨ Fun Facts About Me
 
-* 🔥 I enjoy building practical Python projects
-* 📖 Learning Machine Learning step-by-step
-* 🎥 Interested in tech content creation
-* ⚡ Love exploring new tools and technologies
-* 🚀 Goal: Become a skilled Software Engineer
+* 🔥 I enjoy building Python-based projects
+* 🚀 Always learning new technologies
+* 📖 Interested in Machine Learning and AI
+* ⚡ Love solving coding challenges
+* 💡 Exploring modern development tools
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Programming & Backend
+## 💻 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## ⚙️ Backend & Programming
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -71,20 +83,8 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/bodapati-partha-sarathi-969828374/">
+<a href="https://www.linkedin.com/in/bodapati-partha-sarathi-969828374/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-BODAPATI%20PARTHASARATHI-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://medium.com/">
-<img src="https://img.shields.io/badge/Medium-Read%20Blogs-black?style=for-the-badge&logo=medium"/>
-</a>
-
-<a href="https://instagram.com/">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
@@ -94,9 +94,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BODAPATI-PARTHASARATHI&show_icons=true&theme=tokyonight" height="180em"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BODAPATI-PARTHASARATHI&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
@@ -104,7 +104,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=BODAPATI-PARTHASARATHI&theme=tokyonight"/>
 </p>
 
 ---
@@ -112,15 +112,15 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=BODAPATI-PARTHASARATHI&theme=onedark&row=1&column=7"/>
 </p>
 
 ---
 
-# 📌 Featured Skills
+# 📌 Current Focus
 
 ✔ Python Development
-✔ Problem Solving
+✔ Software Engineering
 ✔ Machine Learning Basics
 ✔ Backend Development
 ✔ Git & GitHub Workflow
@@ -132,18 +132,18 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/bodapati-partha-sarathi-969828374/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/BODAPATI-PARTHASARATHI">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/bodapati-partha-sarathi-969828374/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-✨ Building • Learning • Growing Every Day ✨
-</p>
+<h3 align="center">
+✨ Building Projects • Learning Daily • Growing as a Developer ✨
+</h3>
