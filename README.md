@@ -94,9 +94,9 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BODAPATI-PARTHASARATHI&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ParthaSarathi718&show_icons=true&theme=tokyonight" height="180em"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BODAPATI-PARTHASARATHI&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthaSarathi718&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
@@ -104,7 +104,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BODAPATI-PARTHASARATHI&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=ParthaSarathi718&theme=tokyonight"/>
 </p>
 
 ---
@@ -112,7 +112,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BODAPATI-PARTHASARATHI&theme=onedark&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ParthaSarathi718&theme=onedark&row=1&column=7"/>
 </p>
 
 ---
@@ -132,7 +132,7 @@
 
 <p align="center">
 
-<a href="https://github.com/BODAPATI-PARTHASARATHI">
+<a href="https://github.com/ParthaSarathi718">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
